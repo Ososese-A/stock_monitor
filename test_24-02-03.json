@@ -1,0 +1,40 @@
+{
+  "port_1": [
+    {
+      "name": "AVGO",
+      "time": "12_12_24__AM",
+      "price": 1221.46,
+      "percentage_change": -0.24
+    },
+    {
+      "name": "AMZN",
+      "time": "12_12_26__AM",
+      "price": 171.2,
+      "percentage_change": -0.36
+    },
+    {
+      "name": "ORCL",
+      "time": "12_12_28__AM",
+      "price": 115.56,
+      "percentage_change": -0.2
+    },
+    {
+      "name": "PARA",
+      "time": "12_12_29__AM",
+      "price": 14.37,
+      "percentage_change": -0.42
+    },
+    {
+      "name": "DBX",
+      "time": "12_12_31__AM",
+      "price": 32.12,
+      "percentage_change": -1.08
+    },
+    {
+      "name": "TSLA",
+      "time": "12_12_32__AM",
+      "price": 187.47,
+      "percentage_change": -0.23
+    }
+  ]
+}

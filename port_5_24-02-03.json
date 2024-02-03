@@ -1,0 +1,46 @@
+{
+  "port_5": [
+    {
+      "name": "NFLX",
+      "time": "02_12_12__AM",
+      "price": 563.56,
+      "percentage_change": -0.19
+    },
+    {
+      "name": "PAYC",
+      "time": "02_12_13__AM",
+      "price": 194.6,
+      "percentage_change": -0.2
+    },
+    {
+      "name": "NKE",
+      "time": "02_12_15__AM",
+      "price": 100.68,
+      "percentage_change": -0.03
+    },
+    {
+      "name": "MDLZ",
+      "time": "02_12_17__AM",
+      "price": 76.81,
+      "percentage_change": -0.08
+    },
+    {
+      "name": "HPE",
+      "time": "02_12_18__AM",
+      "price": 15.5,
+      "percentage_change": 0.58
+    },
+    {
+      "name": "WEN",
+      "time": "02_12_20__AM",
+      "price": 19.1,
+      "percentage_change": 0.16
+    },
+    {
+      "name": "MD",
+      "time": "02_12_22__AM",
+      "price": 9.31,
+      "percentage_change": 0.0
+    }
+  ]
+}

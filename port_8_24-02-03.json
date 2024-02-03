@@ -1,0 +1,40 @@
+{
+  "port_8": [
+    {
+      "name": "MCD",
+      "time": "02_12_43__AM",
+      "price": 297.2,
+      "percentage_change": 0.05
+    },
+    {
+      "name": "DPZ",
+      "time": "02_12_44__AM",
+      "price": 422.5,
+      "percentage_change": 0.1
+    },
+    {
+      "name": "CSCO",
+      "time": "02_12_46__AM",
+      "price": 50.01,
+      "percentage_change": -0.34
+    },
+    {
+      "name": "PYPL",
+      "time": "02_12_47__AM",
+      "price": 62.39,
+      "percentage_change": -0.05
+    },
+    {
+      "name": "JAKK",
+      "time": "02_12_49__AM",
+      "price": 31.05,
+      "percentage_change": -1.9
+    },
+    {
+      "name": "WKHS",
+      "time": "02_12_52__AM",
+      "price": 0.2683,
+      "percentage_change": 2.4
+    }
+  ]
+}

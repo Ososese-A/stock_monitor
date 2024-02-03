@@ -1,0 +1,330 @@
+{
+  "port_all": [
+    {
+      "port_1": [
+        {
+          "name": "AVGO",
+          "time": "02_11_32__AM",
+          "price": 1222.03,
+          "percentage_change": -0.19
+        },
+        {
+          "name": "AMZN",
+          "time": "02_11_33__AM",
+          "price": 171.17,
+          "percentage_change": -0.38
+        },
+        {
+          "name": "ORCL",
+          "time": "02_11_35__AM",
+          "price": 115.74,
+          "percentage_change": -0.04
+        },
+        {
+          "name": "PARA",
+          "time": "02_11_36__AM",
+          "price": 14.49,
+          "percentage_change": 0.42
+        },
+        {
+          "name": "DBX",
+          "time": "02_11_38__AM",
+          "price": 32.12,
+          "percentage_change": -1.08
+        },
+        {
+          "name": "TSLA",
+          "time": "02_11_39__AM",
+          "price": 187.58,
+          "percentage_change": -0.18
+        }
+      ]
+    },
+    {
+      "port_2": [
+        {
+          "name": "COKE",
+          "time": "02_11_41__AM",
+          "price": 917.0,
+          "percentage_change": 0.82
+        },
+        {
+          "name": "WMT",
+          "time": "02_11_42__AM",
+          "price": 170.0,
+          "percentage_change": 0.25
+        },
+        {
+          "name": "GE",
+          "time": "02_11_44__AM",
+          "price": 136.5,
+          "percentage_change": -0.03
+        },
+        {
+          "name": "WBD",
+          "time": "02_11_46__AM",
+          "price": 10.24,
+          "percentage_change": -0.1
+        },
+        {
+          "name": "INTC",
+          "time": "02_11_47__AM",
+          "price": 42.47,
+          "percentage_change": -0.32
+        },
+        {
+          "name": "V",
+          "time": "02_11_49__AM",
+          "price": 276.72,
+          "percentage_change": -0.17
+        }
+      ]
+    },
+    {
+      "port_3": [
+        {
+          "name": "ADBE",
+          "time": "02_11_51__AM",
+          "price": 634.45,
+          "percentage_change": -0.05
+        },
+        {
+          "name": "GOOGL",
+          "time": "02_11_52__AM",
+          "price": 142.41,
+          "percentage_change": 0.02
+        },
+        {
+          "name": "CROX",
+          "time": "02_11_54__AM",
+          "price": 98.1,
+          "percentage_change": -0.08
+        },
+        {
+          "name": "DELL",
+          "time": "02_11_56__AM",
+          "price": 85.69,
+          "percentage_change": -0.73
+        },
+        {
+          "name": "MAT",
+          "time": "02_11_57__AM",
+          "price": 18.69,
+          "percentage_change": -1.74
+        },
+        {
+          "name": "NOK",
+          "time": "02_12_00__AM",
+          "price": 3.53,
+          "percentage_change": -0.56
+        }
+      ]
+    },
+    {
+      "port_4": [
+        {
+          "name": "NVDA",
+          "time": "02_12_01__AM",
+          "price": 663.79,
+          "percentage_change": 0.33
+        },
+        {
+          "name": "AAPL",
+          "time": "02_12_03__AM",
+          "price": 185.3,
+          "percentage_change": -0.3
+        },
+        {
+          "name": "TGT",
+          "time": "02_12_05__AM",
+          "price": 145.35,
+          "percentage_change": -0.1
+        },
+        {
+          "name": "MNST",
+          "time": "02_12_06__AM",
+          "price": 56.5,
+          "percentage_change": 2.08
+        },
+        {
+          "name": "HAS",
+          "time": "02_12_08__AM",
+          "price": 50.4,
+          "percentage_change": 0.66
+        },
+        {
+          "name": "EBAY",
+          "time": "02_12_10__AM",
+          "price": 41.94,
+          "percentage_change": 0.0
+        }
+      ]
+    },
+    {
+      "port_5": [
+        {
+          "name": "NFLX",
+          "time": "02_12_12__AM",
+          "price": 563.56,
+          "percentage_change": -0.19
+        },
+        {
+          "name": "PAYC",
+          "time": "02_12_13__AM",
+          "price": 194.6,
+          "percentage_change": -0.2
+        },
+        {
+          "name": "NKE",
+          "time": "02_12_15__AM",
+          "price": 100.68,
+          "percentage_change": -0.03
+        },
+        {
+          "name": "MDLZ",
+          "time": "02_12_17__AM",
+          "price": 76.81,
+          "percentage_change": -0.08
+        },
+        {
+          "name": "HPE",
+          "time": "02_12_18__AM",
+          "price": 15.5,
+          "percentage_change": 0.58
+        },
+        {
+          "name": "WEN",
+          "time": "02_12_20__AM",
+          "price": 19.1,
+          "percentage_change": 0.16
+        },
+        {
+          "name": "MD",
+          "time": "02_12_22__AM",
+          "price": 9.31,
+          "percentage_change": 0.0
+        }
+      ]
+    },
+    {
+      "port_6": [
+        {
+          "name": "LULU",
+          "time": "02_12_23__AM",
+          "price": 464.0,
+          "percentage_change": 0.35
+        },
+        {
+          "name": "HSY",
+          "time": "02_12_25__AM",
+          "price": 198.31,
+          "percentage_change": 0.33
+        },
+        {
+          "name": "SONY",
+          "time": "02_12_27__AM",
+          "price": 95.0,
+          "percentage_change": -3.61
+        },
+        {
+          "name": "K",
+          "time": "02_12_28__AM",
+          "price": 55.06,
+          "percentage_change": 0.0
+        },
+        {
+          "name": "UA",
+          "time": "02_12_30__AM",
+          "price": 7.52,
+          "percentage_change": 0.0
+        },
+        {
+          "name": "GM",
+          "time": "02_12_31__AM",
+          "price": 38.88,
+          "percentage_change": -0.08
+        }
+      ]
+    },
+    {
+      "port_7": [
+        {
+          "name": "META",
+          "time": "02_12_33__AM",
+          "price": 473.6,
+          "percentage_change": -0.29
+        },
+        {
+          "name": "MSFT",
+          "time": "02_12_35__AM",
+          "price": 411.22,
+          "percentage_change": 0.0
+        },
+        {
+          "name": "DIS",
+          "time": "02_12_36__AM",
+          "price": 97.04,
+          "percentage_change": -0.09
+        },
+        {
+          "name": "K",
+          "time": "02_12_38__AM",
+          "price": 55.06,
+          "percentage_change": 0.0
+        },
+        {
+          "name": "U",
+          "time": "02_12_39__AM",
+          "price": 32.7,
+          "percentage_change": -0.43
+        },
+        {
+          "name": "VSAT",
+          "time": "02_12_41__AM",
+          "price": 22.29,
+          "percentage_change": 0.0
+        }
+      ]
+    },
+    {
+      "port_8": [
+        {
+          "name": "MCD",
+          "time": "02_12_43__AM",
+          "price": 297.2,
+          "percentage_change": 0.05
+        },
+        {
+          "name": "DPZ",
+          "time": "02_12_44__AM",
+          "price": 422.5,
+          "percentage_change": 0.1
+        },
+        {
+          "name": "CSCO",
+          "time": "02_12_46__AM",
+          "price": 50.01,
+          "percentage_change": -0.34
+        },
+        {
+          "name": "PYPL",
+          "time": "02_12_47__AM",
+          "price": 62.39,
+          "percentage_change": -0.05
+        },
+        {
+          "name": "JAKK",
+          "time": "02_12_49__AM",
+          "price": 31.05,
+          "percentage_change": -1.9
+        },
+        {
+          "name": "WKHS",
+          "time": "02_12_52__AM",
+          "price": 0.2683,
+          "percentage_change": 2.4
+        }
+      ]
+    }
+  ]
+}

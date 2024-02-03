@@ -1,0 +1,40 @@
+{
+  "port_6": [
+    {
+      "name": "LULU",
+      "time": "02_12_23__AM",
+      "price": 464.0,
+      "percentage_change": 0.35
+    },
+    {
+      "name": "HSY",
+      "time": "02_12_25__AM",
+      "price": 198.31,
+      "percentage_change": 0.33
+    },
+    {
+      "name": "SONY",
+      "time": "02_12_27__AM",
+      "price": 95.0,
+      "percentage_change": -3.61
+    },
+    {
+      "name": "K",
+      "time": "02_12_28__AM",
+      "price": 55.06,
+      "percentage_change": 0.0
+    },
+    {
+      "name": "UA",
+      "time": "02_12_30__AM",
+      "price": 7.52,
+      "percentage_change": 0.0
+    },
+    {
+      "name": "GM",
+      "time": "02_12_31__AM",
+      "price": 38.88,
+      "percentage_change": -0.08
+    }
+  ]
+}

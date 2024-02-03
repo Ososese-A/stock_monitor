@@ -1,0 +1,40 @@
+{
+  "port_3": [
+    {
+      "name": "ADBE",
+      "time": "02_11_51__AM",
+      "price": 634.45,
+      "percentage_change": -0.05
+    },
+    {
+      "name": "GOOGL",
+      "time": "02_11_52__AM",
+      "price": 142.41,
+      "percentage_change": 0.02
+    },
+    {
+      "name": "CROX",
+      "time": "02_11_54__AM",
+      "price": 98.1,
+      "percentage_change": -0.08
+    },
+    {
+      "name": "DELL",
+      "time": "02_11_56__AM",
+      "price": 85.69,
+      "percentage_change": -0.73
+    },
+    {
+      "name": "MAT",
+      "time": "02_11_57__AM",
+      "price": 18.69,
+      "percentage_change": -1.74
+    },
+    {
+      "name": "NOK",
+      "time": "02_12_00__AM",
+      "price": 3.53,
+      "percentage_change": -0.56
+    }
+  ]
+}

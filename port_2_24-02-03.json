@@ -1,0 +1,40 @@
+{
+  "port_2": [
+    {
+      "name": "COKE",
+      "time": "02_11_41__AM",
+      "price": 917.0,
+      "percentage_change": 0.82
+    },
+    {
+      "name": "WMT",
+      "time": "02_11_42__AM",
+      "price": 170.0,
+      "percentage_change": 0.25
+    },
+    {
+      "name": "GE",
+      "time": "02_11_44__AM",
+      "price": 136.5,
+      "percentage_change": -0.03
+    },
+    {
+      "name": "WBD",
+      "time": "02_11_46__AM",
+      "price": 10.24,
+      "percentage_change": -0.1
+    },
+    {
+      "name": "INTC",
+      "time": "02_11_47__AM",
+      "price": 42.47,
+      "percentage_change": -0.32
+    },
+    {
+      "name": "V",
+      "time": "02_11_49__AM",
+      "price": 276.72,
+      "percentage_change": -0.17
+    }
+  ]
+}

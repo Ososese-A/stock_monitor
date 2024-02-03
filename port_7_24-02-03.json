@@ -1,0 +1,40 @@
+{
+  "port_7": [
+    {
+      "name": "META",
+      "time": "02_12_33__AM",
+      "price": 473.6,
+      "percentage_change": -0.29
+    },
+    {
+      "name": "MSFT",
+      "time": "02_12_35__AM",
+      "price": 411.22,
+      "percentage_change": 0.0
+    },
+    {
+      "name": "DIS",
+      "time": "02_12_36__AM",
+      "price": 97.04,
+      "percentage_change": -0.09
+    },
+    {
+      "name": "K",
+      "time": "02_12_38__AM",
+      "price": 55.06,
+      "percentage_change": 0.0
+    },
+    {
+      "name": "U",
+      "time": "02_12_39__AM",
+      "price": 32.7,
+      "percentage_change": -0.43
+    },
+    {
+      "name": "VSAT",
+      "time": "02_12_41__AM",
+      "price": 22.29,
+      "percentage_change": 0.0
+    }
+  ]
+}

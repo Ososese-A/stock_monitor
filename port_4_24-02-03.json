@@ -1,0 +1,40 @@
+{
+  "port_4": [
+    {
+      "name": "NVDA",
+      "time": "02_12_01__AM",
+      "price": 663.79,
+      "percentage_change": 0.33
+    },
+    {
+      "name": "AAPL",
+      "time": "02_12_03__AM",
+      "price": 185.3,
+      "percentage_change": -0.3
+    },
+    {
+      "name": "TGT",
+      "time": "02_12_05__AM",
+      "price": 145.35,
+      "percentage_change": -0.1
+    },
+    {
+      "name": "MNST",
+      "time": "02_12_06__AM",
+      "price": 56.5,
+      "percentage_change": 2.08
+    },
+    {
+      "name": "HAS",
+      "time": "02_12_08__AM",
+      "price": 50.4,
+      "percentage_change": 0.66
+    },
+    {
+      "name": "EBAY",
+      "time": "02_12_10__AM",
+      "price": 41.94,
+      "percentage_change": 0.0
+    }
+  ]
+}
